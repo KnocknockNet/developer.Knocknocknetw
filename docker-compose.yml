@@ -18,3 +18,4 @@ services:
     command: ./deploy.sh --source-only
     volumes:
       - .:/myapp
+
